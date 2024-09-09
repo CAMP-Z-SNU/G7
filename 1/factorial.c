@@ -1,4 +1,6 @@
-
+/*
+           to find factorial of a number using recursion
+                                                                    */
 
 #include <stdio.h>
 
@@ -25,3 +27,4 @@ int main() {
 
     return 0;
 }
+       //    Difficulty level : 45/100    //
